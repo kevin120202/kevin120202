@@ -1,4 +1,4 @@
-![Header](./github-header-img.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kevin Dela Paz</h1>
 
 # 💫 About Me:
