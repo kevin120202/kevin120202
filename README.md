@@ -1,8 +1,7 @@
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kevin Dela Paz</h1>
 
 # 💫 About Me:
-<h3> Hi there! 👋<br><br>I'm Kevin Dela Paz, a Computer Science student at Northern Illinois University. I have a passion for Software Engineering and artificial intelligence, and I'm currently diving deep into data structures and algorithms and backend engineering. When I'm not coding, you can find me working out or playing basketball. Let's connect and collaborate on exciting projects!<br></h3>
+<h4> Hi there! 👋<br><br>I'm Kevin Dela Paz, a Computer Science student at Northern Illinois University. I have a passion for Software Engineering and artificial intelligence, and I'm currently diving deep into data structures and algorithms and backend engineering. When I'm not coding, you can find me working out or playing basketball. Let's connect and collaborate on exciting projects!<br></h4>
 
 
 ## 🌐 Socials:
